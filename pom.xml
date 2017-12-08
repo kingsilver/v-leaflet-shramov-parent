@@ -35,7 +35,7 @@
     </properties>
 
     <modules>
-        <module>g-leaflet-shramov</module>
-        <module>v-leaflet-shramov</module>
+        <module>g-leaflet-shramov-traffic</module>
+        <module>v-leaflet-shramov-traffict</module>
     </modules>
 </project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/g-leaflet-shramov-traffic/g-leaflet-shramov-traffict.iml" filepath="$PROJECT_DIR$/g-leaflet-shramov-traffic/g-leaflet-shramov-traffict.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/v-leaflet-shramov-parent.iml" filepath="$PROJECT_DIR$/.idea/v-leaflet-shramov-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v-leaflet-shramov-traffict/v-leaflet-shramov-traffict.iml" filepath="$PROJECT_DIR$/v-leaflet-shramov-traffict/v-leaflet-shramov-traffict.iml" />
+    </modules>
+  </component>
+</project>
